@@ -1,3 +1,4 @@
 # prueba...
 
-http://findicons.com/icon/53059/alarm?id=53082 HACER GIT PULL ANTES QUE NADA
+ HACER GIT PULL ANTES QUE NADA
+file:///home/usuario/Descargas/alarm.png
